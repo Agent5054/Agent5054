@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I'm curently a complete beginnger learning the most basic skills.  
+- 🌱 I'm curently a complete beginner learning the most basic skills.  I'm hoping to learn enough markdown and HTML to be useful!  
 
 <!--
 **Agent5054/Agent5054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
