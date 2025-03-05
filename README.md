@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I'm curently a complete beginnger learning the most basic skills.  
+
 <!--
 **Agent5054/Agent5054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
